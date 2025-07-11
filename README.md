@@ -1,10 +1,10 @@
 #¡Hola! 👋
 
-**Me llamo Rodrigo Chalco Soliz**
+**🌱Me llamo Rodrigo Chalco Soliz🌱**
 
-**Estudio Ingeniería de Sistemas**   
+**💬Estudio Ingeniería de Sistemas💬**   
 
-**"¡Hoy es un buen día para conquistar tus sueños... y luego echarte una siesta para celebrarlo!"**
+**😄"¡Hoy es un buen día para conquistar tus sueños... y luego echarte una siesta para celebrarlo!"😄**
 
 
 <!--
