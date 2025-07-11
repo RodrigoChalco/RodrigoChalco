@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoChalco&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoChalco&layout=compact&theme=tokyonight)
 
 
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.randstad.es%2Fcandidatos%2Fperfiles-profesionales%2Fprogramador%2F&psig=AOvVaw0dHC9aNdB9yJs_iLUCvJs-&ust=1752341582909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCbm56rtY4DFQAAAAAdAAAAABAE)
