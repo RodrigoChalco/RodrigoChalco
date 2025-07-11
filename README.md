@@ -13,8 +13,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoChalco&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoChalco&layout=compact&theme=tokyonight)
-
 ---
 <p align="center">
   <img src="https://i.postimg.cc/ZqVHtTVF/programador-880-x-450-px.webp" alt="programador" />
