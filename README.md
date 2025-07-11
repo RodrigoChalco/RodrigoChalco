@@ -1,4 +1,9 @@
-## Hi there 👋
+#¡Hola! 👋
+
+**Me llamo Rodrigo Chalco Soliz**
+**Estudio Ingeniería de Sistemas** 
+**"¡Hoy es un buen día para conquistar tus sueños... y luego echarte una siesta para celebrarlo!"**
+
 
 <!--
 **RodrigoChalco/RodrigoChalco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
