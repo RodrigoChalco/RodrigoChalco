@@ -1,13 +1,4 @@
 #¡Hola! 👋
-
-**🌱Me llamo Rodrigo Chalco Soliz🌱**
-
-**🌄 Boliviano de nacimiento, cochabambino de corazon 🇧🇴 ❤️** 
-
-**💬Estudio Ingeniería de Sistemas💬**   
-
-**😄"¡Hoy es un buen día para conquistar tus sueños... y luego echarte una siesta para celebrarlo!"😄**
-
 ---
 
 ### 📊 GitHub Stats
